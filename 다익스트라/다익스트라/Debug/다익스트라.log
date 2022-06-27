@@ -1,0 +1,5 @@
+﻿  소스.cpp
+  소스1.cpp
+  코드를 생성하고 있습니다...
+C:\Users\user\source\repos\다익스트라\다익스트라\소스.cpp(40,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  다익스트라.vcxproj -> C:\Users\user\source\repos\다익스트라\Debug\다익스트라.exe
